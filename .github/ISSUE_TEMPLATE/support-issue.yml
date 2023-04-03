@@ -1,0 +1,66 @@
+name: ❓ SUPPORT QUESTION
+description: Submit a Question or Support Request
+title: "[QUESTION]: <title>"
+labels: ["question","NEW"]
+assignees:
+    - Ragdata
+body:
+
+    - type: markdown
+      attributes:
+          value: |
+              Thanks for taking the time to get in touch
+
+    - type: checkboxes
+      attributes:
+          label: Unique Issue?
+          description: Please search to ensure that this feature has not already been requested
+          options:
+              - label: I have searched all existing issues
+                required: true
+
+    - type: input
+      id: contact
+      attributes:
+          label: Contact Details
+          description: Please provide an email address or GitHub Username so we can get in touch with you.
+          placeholder: "eg: mail@example.com"
+      validations:
+          required: true
+
+    - type: textarea
+      id: details
+      attributes:
+          label: Your Question
+          description: Please state your question or describe the situation you need support with as clearly as possible
+      validations:
+          required: true
+
+    - type: textarea
+      id: environment
+      attributes:
+          label: Environment
+          description: |
+              Please describe your local environment
+              Examples:
+                - **OS**: WSL Ubuntu 20.04
+                - **PHP**: 8.1
+                - **Node**: 13.14.0
+                - **NPM**: 7.6.3
+                - **Browser**: Firefox 107.0.1
+          value: |
+              - **OS**:
+              - **PHP**:
+              - **Node**:
+              - **NPM**:
+              - **Browser**:
+          render: markdown
+
+    - type: textarea
+      id: further
+      attributes:
+          label: Further Information
+          description: |
+              Please provide any links, references, screenshots, or anything else which will give us more context about your issue
+
+              Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in
