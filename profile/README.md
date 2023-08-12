@@ -30,7 +30,7 @@ RedEyed Technologies is an IT Consultancy firm which specializes in cloud, conta
 </td>
 </tr>
 <tr>
-<td width="70" align="center"><a href="https://github.com/ragsworks"><img alt="RagsWorks" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/ragsworks/logo/ragsworks.svg" /></a></td>
+<td width="70" align="center"><a href="https://github.com/ragsworks"><img alt="RagsWorks" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/ragsworks/logo/RagsWorks.svg" /></a></td>
 <td>
 <a href="https://github.com/ragsworks"><strong>RagsWorks Project</strong></a><br />
 Reusable Actions &amp; Workflows by Ragdata - also includes a repository full of <a href="https://github.com/ragsworks/devcontainers">DevContainers</a> with various environments.
