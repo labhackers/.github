@@ -1,4 +1,4 @@
-# 📑 [Bash Bits Contributor's Guide](#toc)
+# 📑 [LabHacker's Contributor's Guide](#toc)
 
 > 👉 This file is included by default with all `LabHacker's` repositories by virtue of its inclusion in the [`.github`](https://github.com/ragdata/.github) repository, which defines defaults for all other repositories under an organisation.
 >
@@ -134,13 +134,16 @@ The ['community standards'](https://github.com/Ragdata/.github/community) files 
 
 All the GitHub actions and associated workflows I use in all of my repositories live here.  This allows me to create workflows which are tailored specifically for _my_ code, and are a lot lighter than generic actions.  I've left this as a public repo so that you can study the techniques used and implement them for yourself!
 
-### 🎁 [Release Manager](https://github.com/ragdata/release-manager)
+[//]: # (### 🎁 [Release Manager]&#40;https://github.com/ragdata/release-manager&#41;)
 
-I include a configuration file (`.releaserc`) for `Release Manager` in every single one of my repositories.  It takes care of writing my CHANGELOGS, incrementing versions recorded throughout my repositories and ensures that my releases are orderly and compliant with [semantic versioning][semver].  `Release Manager` can be used from the Linux command line, or as part of a GitHub workflow!
+[//]: # ()
+[//]: # (I include a configuration file &#40;`.releaserc`&#41; for `Release Manager` in every single one of my repositories.  It takes care of writing my CHANGELOGS, incrementing versions recorded throughout my repositories and ensures that my releases are orderly and compliant with [semantic versioning][semver].  `Release Manager` can be used from the Linux command line, or as part of a GitHub workflow!)
 
-### 🧩 [Bash Bits](https://github.com/ragdata/bash-bits)
+[//]: # ()
+[//]: # (### 🧩 [Bash Bits]&#40;https://github.com/ragdata/bash-bits&#41;)
 
-`Bash Bits` is my modular library for Bash.  Because a fair amount of the stuff I write is written for the Linux command line, `Bash Bits` ends up finding a place in most of my repositories, and if you're writing for Bash, it could be a valuable part of one of yours too!  `BB` is unique in that it is written particularly with users of WSL2 (Ubuntu) in mind!
+[//]: # ()
+[//]: # (`Bash Bits` is my modular library for Bash.  Because a fair amount of the stuff I write is written for the Linux command line, `Bash Bits` ends up finding a place in most of my repositories, and if you're writing for Bash, it could be a valuable part of one of yours too!  `BB` is unique in that it is written particularly with users of WSL2 &#40;Ubuntu&#41; in mind!)
 
 [`^ Top`](#toc)
 

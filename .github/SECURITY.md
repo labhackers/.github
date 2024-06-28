@@ -20,10 +20,6 @@
 
 </details>
 
-## [Supported Versions](#toc)
-
-The current supported version of Bash Bits is: [**v-1.0.0**]()
-
 ## 🐞 [Reporting an Issue](#toc)
 
 I, and those I choose to collaborate with, take all bugs very seriously.  We know all too well how much damage even the most innocent-looking bugs can cause if exploited with malicious intent.  Because of the seriousness of these matters, we very much appreciate your efforts and your responsible disclosure.  In return, we will make every effort to acknowledge your contribution.
