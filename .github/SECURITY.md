@@ -62,9 +62,7 @@ The following are NOT in the scope of this policy:
 
 ## 💰 [A Word About "Bug Bounties"](#toc)
 
-> (the opinion of one outspoken and internationally ignored "thought leader")
->
-> Unfortunately, I have not yet made my fortune out of software - although that is most certainly still my intention - so I do not currently offer a paid "Bug Bounty" program.  I'm just some random bloke like any other trying to scratch out a living using his meagre wit and talents.  If I do suddenly stumble upon that elusive something which proves to be the basis upon which I may build a fortune, then this will likely change - until then, however, we (being myself and those I may have chosen to collaborate with) will make every effort to show our appreciation to the people who generously give their time and make the effort to expose vulnerabilities in our code in a responsible, discreet manner, and reserve our everlasting disdain for those who do otherwise - including those withholding information in the hope of or while demanding monetary reward in exchange.  I believe it is ENTIRELY in opposition to the fundamental principles of open-source software for this sort of practice to be engaged in, and will not beat about the bush before telling anyone who inquires about such exactly where they can find their "Bug Bounty", and when they can expect to receive it.
+> Unfortunately, I have not yet made my fortune out of software - although that is most certainly still my intention - so I do not currently offer a paid "Bug Bounty" program.  I'm just some random bloke like any other trying to scratch out a living using his meagre wit and talents.  If I do suddenly stumble upon that elusive something which proves to be the basis upon which I may build a fortune, then this will likely change - until then, however, we (being myself and those I may have chosen to collaborate with) will make every effort to show our appreciation to the people who generously give their time and make the effort to expose vulnerabilities in our code in a responsible, discreet manner.
 
 ## 📣 [Security Advisories](#toc)
 
