@@ -1,0 +1,7 @@
+{
+    "name": "Jekyll GH-Pages Tagging",
+    "description": "An article tagging solution for Jekyll that is 100% compatible with GitHub Pages",
+    "iconName": "tag",
+    "creator": "Ragdata",
+    "categories": ["Pages", "Jekyll"]
+}
