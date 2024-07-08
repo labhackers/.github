@@ -1,7 +1,7 @@
 {
     "name": "Jekyll GH-Pages Tagging - Reusable",
     "description": "An article tagging solution for Jekyll that is 100% compatible with GitHub Pages - Reusable Workflow",
-    "iconName": "tags",
+    "iconName": "tag-reuse",
     "creator": "Ragdata",
     "categories": ["Pages", "Jekyll"]
 }
